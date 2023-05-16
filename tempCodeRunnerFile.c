@@ -1,0 +1,1 @@
+Memory Size of 'ptr
